@@ -28,6 +28,6 @@ At the time of writing this app, react hooks are not officially implemented in t
 # References:
 https://reactjs.org/docs/hooks-intro.html
 
-https://reactjs.org/blog/2018/11/27/react-16-roadmap.html
+https://reactjs.org/blog/2019/02/06/react-v16.8.0.html
 
 https://www.youtube.com/watch?v=dpw9EHDh2bM
